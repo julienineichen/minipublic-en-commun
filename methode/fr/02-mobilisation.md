@@ -68,6 +68,24 @@ Les mesures d'inclusion ont été définies et budgétées lors du cadrage. La m
 - Tableau de bord de suivi des contacts et des confirmations
 - Fiche logistique des ateliers (lieu, horaires, matériel)
 
+## Communication avec les membres du MiniPublic — emails automatisés
+
+Gérer la communication avec 15–25 personnes sur plusieurs mois implique un volume d'emails important. Il est fortement recommandé de mettre en place un **système de suivi des états de communication** pour chaque membre du MiniPublic, permettant de savoir à tout moment quelle est la dernière communication reçue et celle attendue.
+
+Les étapes types de communication couvrent l'ensemble du cycle de vie du MiniPublic :
+
+- Confirmation d'inscription (avec date, lieu, ordre du jour)
+- Rappels avant chaque atelier (J-7, J-1)
+- Email de contextualisation avant la boucle 2 (enjeux du MEP à ce stade, rôle du MiniPublic dans la boucle)
+- Email de retour après chaque atelier (lien vers les recommandations produites, questionnaire d'évaluation)
+- Email d'information sur les arbitrages du Collège (ce qui a été retenu, ce qui ne l'a pas été et pourquoi)
+- Invitation à l'événement public de restitution
+- Communication des résultats du concours
+
+Pour les absents à un atelier, prévoir un email spécifique qui contextualise ce qui s'est passé et les invite à l'atelier suivant.
+
+Voir `outils/fr/gestion-emails-minipublic.md` pour les modèles et le système de suivi des états.
+
 ## Points de vigilance
 
 - **Anticiper les désistements** : prévoir une liste de suppléant·e·s d'au moins 30% du MiniPublic

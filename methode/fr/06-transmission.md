@@ -14,11 +14,21 @@ Assurer que les membres du MiniPublic, forts de leur compréhension approfondie 
 
 ## Modalités de transmission
 
-### 1. Présentation publique des résultats
+### 1. Page web dédiée au processus — transparence continue
+
+Plutôt que de réserver toute communication à une restitution finale, il est recommandé de maintenir une **page web publique mise à jour après chaque jalon du processus** : fin du tirage au sort, tenue de chaque atelier, transmission des recommandations au Collège, arbitrages retenus.
+
+Cette page remplit plusieurs fonctions : elle informe les habitant·e·s qui n'ont pas été tiré·e·s au sort, elle renforce la légitimité du processus par la transparence, et elle constitue une archive du déroulement pour les participant·e·s et la maîtrise d'ouvrage.
+
+Contenu type après chaque atelier : date et lieu, nombre de participant·e·s, thèmes travaillés, lien vers la liste de recommandations validée par les ambassadeurs.
+
+### 2. Présentation publique des résultats
 
 Une séance publique est organisée à l'issue du processus. Les membres du MiniPublic y présentent eux-mêmes — avec l'appui de l'AMU — les grandes lignes de l'expertise d'usage produite et des recommandations transmises à la maîtrise d'ouvrage et au Collège d'expert·e·s.
 
 Ce n'est pas une conférence de presse de la maîtrise d'ouvrage : c'est un moment où les habitant·e·s et usager·ère·s rendent compte à leurs concitoyen·ne·s.
+
+**Préparer cette séance à l'avance.** La restitution publique ne se prépare pas dans les jours qui suivent le dernier atelier — elle doit être planifiée dès le cadrage, avec une date provisoire intégrée au calendrier du MEP. L'AMU prépare les ambassadeurs à prendre la parole en public (format, messages clés, questions-réponses), et la maîtrise d'ouvrage s'assure que les résultats du concours sont disponibles pour être communiqués lors de cet événement.
 
 ### 2. Publication des documents
 
@@ -44,6 +54,7 @@ Ce suivi est une marque de respect envers les personnes qui ont investi du temps
 
 ## Livrables de la transmission
 
+- Mises à jour régulières de la page web dédiée au processus (après chaque jalon)
 - Compte-rendu de la séance publique de restitution
 - Rapport d'expertise d'usage publié (version accessible)
 - Réponse de la maîtrise d'ouvrage aux recommandations du MiniPublic

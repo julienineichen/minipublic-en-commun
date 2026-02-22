@@ -57,9 +57,19 @@ Les **ambassadeurs** sont des membres du MiniPublic désignés par tirage au sor
 
 Ce choix doit être acté par la maîtrise d'ouvrage et intégré au règlement du MEP. Dans tous les cas, le Collège a l'obligation d'argumenter explicitement les recommandations non retenues.
 
+**Ce statut doit être communiqué clairement aux membres du MiniPublic dès le recrutement** — dans un langage direct, sans jargon. Des formulations comme "vous donnerez des recommandations, mais vous ne choisirez pas le lauréat" permettent d'éviter les malentendus sur le pouvoir réel du MiniPublic. Des attentes non alignées avec le statut réel du MiniPublic peuvent générer de la frustration ou un sentiment de manipulation en cours de processus.
+
 ### 4. Clause de confidentialité
 
 Les membres du MiniPublic signent une clause de confidentialité avant la boucle 2. Elle leur interdit de divulguer des informations sur les projets des équipes concurrentes pendant toute la durée du MEP, afin de préserver l'équité de la concurrence. Son contenu est défini avec la maîtrise d'ouvrage et l'AMO en cohérence avec le règlement du MEP.
+
+**La clause est un objet politique, pas seulement juridique.** La maîtrise d'ouvrage peut demander en cours de processus à en modifier le contenu — par exemple pour en supprimer les dispositions pénales. Si cela se produit, l'AMU doit :
+
+1. Mettre à jour la clause en concertation avec l'AMO
+2. Informer l'ensemble des membres du MiniPublic par email de la modification et de ses raisons
+3. Faire signer la version actualisée aux membres qui ne l'avaient pas encore signée, ou recueillir une confirmation des membres déjà signataires
+
+Ces éventuelles modifications doivent être expliquées aux membres du MiniPublic de manière transparente — pas présentées comme une formalité administrative. Une clause mal comprise ou vécue comme imposée fragilise la confiance du groupe envers le processus.
 
 ### 5. Cartographie, composition et périmètre du MiniPublic
 
@@ -85,7 +95,7 @@ Le cadrage définit et budgète les mesures nécessaires pour que le MiniPublic 
 - Convention de mandat AMU / maîtrise d'ouvrage
 - Cartographie des personnes concernées par le projet
 - Calendrier prévisionnel articulé au calendrier du MEP
-- Règlement du MEP amendé pour intégrer les scènes participatives
+- Règlement du MEP amendé pour intégrer les scènes participatives (incluant le statut formel des ambassadeurs)
 - Grille de stratification pour le tirage au sort (voir `outils/fr/guide-tirage-au-sort.md`)
 - Budget des mesures d'inclusion
 - Modèle de clause de confidentialité
@@ -96,5 +106,5 @@ Le cadrage définit et budgète les mesures nécessaires pour que le MiniPublic 
 
 - **Le cadrage est un accord politique autant que technique.** Le statut des ambassadeurs et l'obligation d'argumenter les recommandations non retenues engagent la maîtrise d'ouvrage. Mieux vaut clarifier les résistances en amont que les découvrir en cours de processus.
 - **L'articulation calendaire est critique.** Les contributions du MiniPublic doivent arriver au bon moment pour être utiles — un rapport rendu après la clôture du cahier des charges ou après la délibération finale ne sert à rien.
-- **La clause de confidentialité doit être expliquée, pas imposée.** Elle est indispensable pour l'équité de la concurrence, mais les membres du MiniPublic doivent en comprendre la raison, pas la vivre comme une contrainte bureaucratique.
+- **La clause de confidentialité doit être expliquée, pas imposée.** Elle est indispensable pour l'équité de la concurrence, mais les membres du MiniPublic doivent en comprendre la raison, pas la vivre comme une contrainte bureaucratique. Prévoir que son contenu peut être amendé en cours de processus et planifier en amont comment cette éventualité sera gérée.
 - **Ne pas promettre ce qu'on ne peut pas tenir.** Le statut réel des ambassadeurs et la portée concrète des recommandations doivent être communiqués honnêtement dès le recrutement.

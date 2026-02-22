@@ -20,7 +20,35 @@ Les membres du MiniPublic ne sont pas des profanes à former avant de pouvoir pa
 
 ---
 
-## Principes de la délibération
+## Préparation spécifique à la boucle 2 — Coordination avec les équipes de conception
+
+La boucle 2 fait intervenir les équipes de conception comme interlocuteurs directs du MiniPublic. Cette configuration implique une préparation logistique et relationnelle spécifique.
+
+### Coordination préalable avec les équipes
+
+Contacter les équipes en amont de l'atelier pour leur préciser :
+- Le format de leur présentation (durée, type de supports attendus)
+- Le public qu'elles vont rencontrer (citoyen·ne·s tirés au sort, non-spécialistes)
+- Ce qu'on attend d'elles (une présentation accessible, pas une conférence technique)
+
+### Gestion des fichiers de présentation
+
+Les équipes transmettent leurs supports avant l'atelier. L'AMU les réceptionne et les prépare pour la projection :
+
+- **Nommer les fichiers de manière standardisée** pour éviter la confusion lors de la projection (ex. : `CODE_PROJET_AMP2_NOM-DU-BUREAU.pdf`)
+- **Réduire la résolution** des planches si nécessaire pour faciliter le changement de fichier en cours d'atelier
+- **Créer un dossier unique** avec l'ensemble des présentations, ordonné selon le plan de la journée
+- **Prévenir le coordinateur ou facilitateur principal** que le dossier est prêt et accessible
+
+### Accessibilité des supports
+
+Si des plans ou rendus sont trop techniques ou peu lisibles, signaler aux équipes concernées que leurs supports gagneraient à être rendus plus accessibles — avant l'atelier, pas le jour même. Cette démarche relève de l'AMU, pas des membres du MiniPublic.
+
+### Répartition des membres du MiniPublic par groupe et par projet
+
+La répartition des membres du MiniPublic dans les sous-groupes doit être faite avant l'atelier en tenant compte de la diversité au sein de chaque groupe (âge, genre, situation résidentielle, etc.). Cette répartition peut aussi intégrer une rotation par projet si plusieurs projets sont présentés en parallèle.
+
+
 
 **La délibération n'est pas un vote.** Son objectif n'est pas de dégager une majorité, mais de construire une compréhension partagée des enjeux et des arbitrages nécessaires. Les désaccords qui persistent après délibération sont eux-mêmes une information utile pour la maîtrise d'ouvrage et le Collège d'expert·e·s.
 

@@ -41,7 +41,7 @@ Cette documentation est organisée en six étapes correspondant aux six phases d
 | 5. Contribution à la décision | `05-contribution-decision.md` |
 | 6. Transmission | `06-transmission.md` |
 
-Les outils pratiques (budget type, guide de tirage au sort, grille d'évaluation, guide d'animation) sont disponibles dans le dossier `outils/`.
+Les outils pratiques (budget type, guide de tirage au sort, grille d'évaluation, guide d'animation, gestion des défraiements, gestion des emails membres) sont disponibles dans le dossier `outils/`.
 
 ## Conditions de mise en œuvre
 
