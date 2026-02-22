@@ -65,8 +65,6 @@ La répartition des membres du MiniPublic dans les sous-groupes doit être faite
 
 Le cahier des charges ou les projets des équipes sont présentés au MiniPublic. Pour le cahier des charges, l'AMU peut fournir une synthèse introductive pour faciliter l'entrée dans le document. Pour les projets, chaque équipe présente son travail directement, avec ses propres supports.
 
-Un temps de lecture ou d'exploration individuelle précède la délibération collective.
-
 ### Phase 2 — Identification des enjeux (plénière)
 
 Chaque participant·e est invité·e à formuler, en une ou deux phrases, ce qui lui semble le plus important ou ce qui appelle une réaction. L'animateur·rice note toutes les contributions au tableau, les regroupe par thème, et soumet cette carte des enjeux au MiniPublic pour validation.
