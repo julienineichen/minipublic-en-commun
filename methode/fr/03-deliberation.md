@@ -46,8 +46,7 @@ Si des plans ou rendus sont trop techniques ou peu lisibles, signaler aux équip
 
 ### Répartition des membres du MiniPublic par groupe et par projet
 
-La répartition des membres du MiniPublic dans les sous-groupes doit être faite avant l'atelier en tenant compte de la diversité au sein de chaque groupe (âge, genre, situation résidentielle, etc.). Cette répartition peut aussi intégrer une rotation par projet si plusieurs projets sont présentés en parallèle.
-
+La répartition des membres du MiniPublic dans les sous-groupes doit être faite avant l'atelier en tenant compte de la diversité au sein de chaque groupe (âge, genre, situation résidentielle, etc.).
 
 
 **La délibération n'est pas un vote.** Son objectif n'est pas de dégager une majorité, mais de construire une compréhension partagée des enjeux et des arbitrages nécessaires. Les désaccords qui persistent après délibération sont eux-mêmes une information utile pour la maîtrise d'ouvrage et le Collège d'expert·e·s.
