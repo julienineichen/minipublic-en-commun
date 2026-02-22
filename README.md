@@ -3,7 +3,7 @@
 > Méthode délibérative pour les projets urbains, architecturaux et paysagers  
 > Deliberative method for urban, architectural and landscape projects
 
-**Version**: 0.1 (en développement / in development)  
+**Version**: 0.3 (en développement / in development)  
 **Licence / License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Porté·e·s par / Maintained by**: [Association En Commun](https://www.encommun.ch) — Suisse romande
 
@@ -15,9 +15,9 @@
 
 Le MiniPublic En Commun est une méthode d'assistance à maîtrise d'usage (AMU) pour les projets d'aménagement urbain, architectural et paysager. Elle permet à un groupe d'habitant·e·s et d'usager·ère·s tiré·e·s au sort de produire des rapports d'expertise d'usage destinés à la maîtrise d'ouvrage avant ou pendant un processus de projet.
 
-L'**expertise d'usage** désigne la connaissance fine et incarnée qu'ont les habitant·e·s et usager·ère·s d'un lieu : comment on l'habite, comment on le traverse, ce qui manque, ce qui fonctionne. Cette expertise est irremplaçable — elle ne peut pas être produite par des concepteur·rice·s ou des expert·e·s techniques. Le rôle de l'assistant·e à maîtrise d'usage est de la recueillir, la structurer et la transmettre de façon utilisable par le processus de projet.
+L'**expertise d'usage** désigne la connaissance fine et incarnée qu'ont les habitant·e·s et usager·ère·s d'un lieu : comment on l'habite, comment on le traverse, ce qui manque, ce qui fonctionne. Cette expertise est irremplaçable — elle ne peut pas être produite par des concepteur·rice·s ou des expert·e·s techniques. Le rôle de l'assistant·e à maîtrise d'usage (AMU) est de la recueillir, la structurer et la transmettre de façon utilisable par le processus de projet.
 
-Elle combine deux approches :
+La méthode combine deux approches :
 
 - **MiniPublic** : dispositif délibératif basé sur le tirage au sort (sortition), issu de la littérature académique sur la démocratie délibérative (Fishkin, Gastil, Sintomer, Courant)
 - **MEP** : Mandat d'étude parallèle, procédure de concours d'architecture définie par la norme SIA 143. Dans ce cadre, le jury prend le nom de Collège d'expert·e·s.
@@ -41,28 +41,52 @@ Le MiniPublic En Commun est une adaptation originale développée par l'associat
 
 ### Structure du processus
 
+Le MiniPublic est mobilisé en **boucles itératives** : à chaque boucle, il produit des recommandations que ses ambassadeur·rices portent devant le Collège d'expert·e·s, qui arbitre et argumente. Le dispositif comprend au minimum deux boucles — la première sur le cahier des charges, la seconde sur les projets des équipes de conception.
+
 ```
-1. Cadrage          → Définir la question ET la composition du panel
-                      (cohérence entre la question et les profils recherché·e·s)
-2. Mobilisation     → Dispositifs pour atteindre les objectifs du cadrage
-                      (recrutement, tirage au sort, logistique)
-3. Formation        → Montée en compétence en boucles itératives,
-                      simultanée et imbriquée à la délibération
-4. Délibération     → Sessions en sous-groupes et en plénière,
-                      alternées avec les phases de formation
-5. Expertise d'usage → Rédaction collective des rapports d'expertise d'usage
-6. Contribution     → Stratégie des ambassadeur·rice·s : porter les recommandations
-   à la décision      à la maîtrise d'ouvrage et au Jury / Collège d'expert·e·s
-7. Transmission     → Les membres du MiniPublic, forts de leur compréhension
-                      approfondie du projet, deviennent les relais de la
-                      communication vers le grand public
+1. Cadrage          → Gouvernance, boucles, statut des ambassadeur·rices,
+                      composition du MiniPublic, mesures d'inclusion
+2. Mobilisation     → Recrutement ciblé, logistique,
+                      communication avec les membres
+3. Tirage au sort   → Anonymisation, Panelot, distributions,
+                      tirage public filmé, rapport de composition
+4. Délibération     → Ateliers en sous-groupes et en plénière,
+                      montée en compétence par la pratique
+5. Recommandations  → Compilation, validation par les ambassadeur·rices,
+                      cahier des recommandations (public)
+6. Contribution     → Ambassadeur·rices devant le Collège d'expert·e·s :
+   à la décision      présentation, arbitrage, restitution au MiniPublic
+7. Transmission     → Information du grand public, restitution publique,
+                      retour d'expérience, suivi post-processus
 ```
 
 ### Comment utiliser cette documentation
 
-Ce dépôt contient la documentation complète de la méthode : fondements, processus pas à pas, outils de facilitation, budget type, et retours d'expérience. Elle est publiée sous licence CC BY-SA 4.0 — vous pouvez l'utiliser, l'adapter et la redistribuer librement, à condition de citer la source et de partager sous la même licence.
+Commencer par lire [`methode/fr/00-introduction.md`](./methode/fr/00-introduction.md) pour comprendre les fondements et le rôle de l'AMU. La documentation est ensuite organisée en sept étapes et un ensemble d'outils pratiques.
 
-Pour mettre en œuvre un MiniPublic, commencez par le dossier [`methode/`](./methode/).
+#### Étapes du processus
+
+| Étape | Fichier |
+|---|---|
+| Introduction | [`methode/fr/00-introduction.md`](./methode/fr/00-introduction.md) |
+| 1. Cadrage | [`methode/fr/01-cadrage.md`](./methode/fr/01-cadrage.md) |
+| 2. Mobilisation | [`methode/fr/02-mobilisation.md`](./methode/fr/02-mobilisation.md) |
+| 3. Tirage au sort | [`methode/fr/03-tirage-au-sort.md`](./methode/fr/03-tirage-au-sort.md) |
+| 4. Délibération | [`methode/fr/04-deliberation.md`](./methode/fr/04-deliberation.md) |
+| 5. Recommandations | [`methode/fr/05-recommandations.md`](./methode/fr/05-recommandations.md) |
+| 6. Contribution à la décision | [`methode/fr/06-contribution-decision.md`](./methode/fr/06-contribution-decision.md) |
+| 7. Transmission | [`methode/fr/07-transmission.md`](./methode/fr/07-transmission.md) |
+
+#### Outils pratiques
+
+| Outil | Fichier |
+|---|---|
+| Budget type (heures) | [`methode/fr/outils/budget-type.md`](./methode/fr/outils/budget-type.md) |
+| Convention de cadrage | [`methode/fr/outils/convention-cadrage-notice.md`](./methode/fr/outils/convention-cadrage-notice.md) |
+| Guide de tirage au sort | [`methode/fr/outils/guide-tirage-au-sort.md`](./methode/fr/outils/guide-tirage-au-sort.md) |
+| Guide d'animation des ateliers | [`methode/fr/outils/guide-animation-ateliers.md`](./methode/fr/outils/guide-animation-ateliers.md) |
+| Gestion des défraiements | [`methode/fr/outils/gestion-defraiements.md`](./methode/fr/outils/gestion-defraiements.md) |
+| Gestion des emails membres | [`methode/fr/outils/gestion-emails-minipublic.md`](./methode/fr/outils/gestion-emails-minipublic.md) |
 
 ### Contribuer
 
@@ -74,7 +98,7 @@ Les contributions sont bienvenues : retours d'expérience, adaptations locales, 
 
 ### What is it?
 
-MiniPublic En Commun is a **user expertise assistance** (assistance à maîtrise d'usage — AMU) method for urban planning, architectural and landscape projects. It enables a randomly selected group of inhabitants and users to produce lived expertise reports (rapports d'expertise d'usage) for the project owner before or during a project process.
+MiniPublic En Commun is a **user expertise assistance** (assistance à maîtrise d'usage — AMU) method for urban planning, architectural and landscape projects. It enables a randomly selected group of inhabitants and users to produce lived expertise reports for the project owner before or during a project process.
 
 **Lived expertise** (expertise d'usage) refers to the detailed, embodied knowledge that inhabitants and users have of a place: how they live in it, move through it, what is missing, what works. This expertise is irreplaceable — it cannot be produced by designers or technical experts. The role of the AMU practitioner is to gather, structure and transmit it in a form that can be used by the project process.
 
@@ -102,28 +126,28 @@ MiniPublic En Commun is an original adaptation developed by association En Commu
 
 ### Process structure
 
+The MiniPublic is mobilised in **iterative loops**: at each loop, it produces recommendations that its ambassadors bring before the Expert Panel, which arbitrates and argues its decisions. The process includes at minimum two loops — the first on the project brief (cahier des charges), the second on the design teams' proposals.
+
 ```
-1. Framing          → Define the question AND the panel composition
-                      (coherence between the issue and the profiles sought)
-2. Mobilisation     → Outreach and logistics to meet framing objectives
-                      (recruitment, sortition, organisation)
-3. Learning         → Iterative competence-building, intertwined
-                      with deliberation in iterative loops
-4. Deliberation     → Small group and plenary sessions,
-                      alternated with learning phases
-5. Lived expertise   → Collective drafting of the lived expertise reports
-6. Contributing     → Ambassador strategy: carrying recommendations to the project owner
-   to decisions       and the Jury / Expert Panel (Collège d'expert·e·s)
-7. Transmission     → MiniPublic members, with their in-depth understanding
-                      of the project, become the relays of communication
-                      towards the wider public
+1. Framing          → Governance, loops, ambassador status,
+                      MiniPublic composition, inclusion measures
+2. Mobilisation     → Targeted recruitment, logistics,
+                      member communication
+3. Sortition        → Anonymisation, Panelot, distributions,
+                      filmed public draw, composition report
+4. Deliberation     → Small group and plenary workshops,
+                      competence-building through practice
+5. Recommendations  → Compilation, validation by ambassadors,
+                      public recommendations report
+6. Contributing     → Ambassadors before the Expert Panel:
+   to decisions       presentation, arbitration, feedback to MiniPublic
+7. Transmission     → Public information, public restitution session,
+                      experience feedback, post-process follow-up
 ```
 
 ### How to use this documentation
 
-This repository contains the complete method documentation: foundations, step-by-step process, facilitation tools, budget template, and lessons learned. Published under CC BY-SA 4.0 — you may use, adapt and redistribute freely, provided you cite the source and share under the same license.
-
-To implement a MiniPublic, start with the [`methode/`](./methode/) folder.
+Start with [`methode/fr/00-introduction.md`](./methode/fr/00-introduction.md) to understand the foundations and the AMU role. Documentation is then organised in seven steps and a set of practical tools. Full English translation of step-by-step files is in progress — contributions welcome.
 
 ### Contributing
 

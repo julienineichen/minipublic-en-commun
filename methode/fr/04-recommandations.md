@@ -4,6 +4,7 @@
 
 Compiler et valider la liste de recommandations produite par le MiniPublic, et en assurer la transmission au Collège d'expert·e·s pour arbitrage. Le livrable final est le **cahier des recommandations** — rendu public à l'issue du concours pour ancrer la légitimité de la procédure.
 
+> **Rappel — Les boucles itératives** : Cette étape se répète à chaque boucle. En **boucle 1**, les recommandations portent sur le cahier des charges. En **boucle 2**, elles portent sur les projets des équipes de conception (une liste par équipe). La structure de compilation et de validation est identique dans les deux cas. Pour la définition des boucles, voir [`01-cadrage.md`](./01-cadrage.md).
 
 ---
 

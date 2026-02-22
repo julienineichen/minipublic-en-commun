@@ -18,7 +18,7 @@ Le MEP est une procédure particulièrement adaptée à l'intégration d'un Mini
 
 ## Le rôle de l'assistant·e à maîtrise d'usage (AMU)
 
-L'assistant·e à maîtrise d'usage est le·la professionnel·le qui pilote le MiniPublic. Son rôle est de :
+L'**assistant·e à maîtrise d'usage (AMU)** est le·la professionnel·le qui pilote le MiniPublic. Son rôle est de :
 
 - Cadrer le dispositif avec la maîtrise d'ouvrage
 - Constituer et animer le MiniPublic
@@ -30,24 +30,38 @@ L'AMU agit en complémentarité avec le bureau d'assistance à maîtrise d'ouvra
 
 ## Structure de la documentation
 
-Cette documentation est organisée en six étapes correspondant aux six phases du processus :
+Cette documentation est organisée en sept étapes correspondant aux sept phases du processus, plus un ensemble d'outils pratiques.
+
+### Étapes du processus
 
 | Étape | Fichier |
 |---|---|
-| 1. Cadrage | `01-cadrage.md` |
-| 2. Mobilisation | `02-mobilisation.md` |
-| 3. Délibération | `03-deliberation.md` |
-| 4. Recommandations | `04-recommandations.md` |
-| 5. Contribution à la décision | `05-contribution-decision.md` |
-| 6. Transmission | `06-transmission.md` |
+| 1. Cadrage | [`01-cadrage.md`](./01-cadrage.md) |
+| 2. Mobilisation | [`02-mobilisation.md`](./02-mobilisation.md) |
+| 3. Tirage au sort | [`03-tirage-au-sort.md`](./03-tirage-au-sort.md) |
+| 4. Délibération | [`04-deliberation.md`](./04-deliberation.md) |
+| 5. Recommandations | [`05-recommandations.md`](./05-recommandations.md) |
+| 6. Contribution à la décision | [`06-contribution-decision.md`](./06-contribution-decision.md) |
+| 7. Transmission | [`07-transmission.md`](./07-transmission.md) |
 
-Les outils pratiques (budget type, guide de tirage au sort, grille d'évaluation, guide d'animation, gestion des défraiements, gestion des emails membres) sont disponibles dans le dossier `outils/`.
+### Outils pratiques
+
+Les outils pratiques sont disponibles dans le dossier [`outils/`](./outils/).
+
+| Outil | Fichier |
+|---|---|
+| Budget type (heures) | [`outils/budget-type.md`](./outils/budget-type.md) |
+| Convention de cadrage | [`outils/convention-cadrage-notice.md`](./outils/convention-cadrage-notice.md) |
+| Guide de tirage au sort | [`outils/guide-tirage-au-sort.md`](./outils/guide-tirage-au-sort.md) |
+| Guide d'animation des ateliers | [`outils/guide-animation-ateliers.md`](./outils/guide-animation-ateliers.md) |
+| Gestion des défraiements | [`outils/gestion-defraiements.md`](./outils/gestion-defraiements.md) |
+| Gestion des emails membres | [`outils/gestion-emails-minipublic.md`](./outils/gestion-emails-minipublic.md) |
 
 ## Conditions de mise en œuvre
 
 Le MiniPublic En Commun est conçu pour des projets d'aménagement de taille moyenne dans des communes suisses où la norme SIA est en vigueur. Il suppose :
 
 - Un·e mandant·e (maîtrise d'ouvrage) engagé·e dans la démarche et prêt·e à intégrer l'expertise d'usage au processus de décision
-- Un·e assistant·e à maîtrise d'usage formé·e à l'animation de processus délibératifs
+- Un·e assistant·e à maîtrise d'usage (AMU) formé·e à l'animation de processus délibératifs
 - Un calendrier articulé aux jalons du MEP, avec un minimum de deux boucles d'ateliers
-- Un budget dédié à la logistique, aux indemnités des participant·e·s et à la facilitation (voir `outils/fr/budget-type.md`)
+- Un budget dédié à la logistique, aux indemnités des participant·e·s et à la facilitation (voir [`outils/budget-type.md`](./outils/budget-type.md))

@@ -1,4 +1,4 @@
-# Étape 6 — Transmission
+# Étape 7 — Transmission
 
 ## Objectif
 
@@ -30,23 +30,23 @@ Ce n'est pas une conférence de presse de la maîtrise d'ouvrage : c'est un mome
 
 **Préparer cette séance à l'avance.** La restitution publique ne se prépare pas dans les jours qui suivent le dernier atelier — elle doit être planifiée dès le cadrage, avec une date provisoire intégrée au calendrier du MEP. L'AMU prépare les ambassadeurs à prendre la parole en public (format, messages clés, questions-réponses), et la maîtrise d'ouvrage s'assure que les résultats du concours sont disponibles pour être communiqués lors de cet événement.
 
-### 2. Publication des documents
+### 3. Publication des documents
 
 Le cahier des recommandations (rendu public à l'issue du concours) et la liste de recommandations validée par les ambassadeurs sont mis à disposition. La maîtrise d'ouvrage publie également une réponse indiquant comment les recommandations du MiniPublic ont été prises en compte.
 
 Les documents sont publiés dans un format accessible (pas uniquement PDF technique) et diffusés via les canaux de communication habituels de la commune ou du maître d'ouvrage.
 
-### 3. Médiation de voisinage
+### 4. Médiation de voisinage
 
 Des membres volontaires peuvent être sollicité·e·s pour participer à des séances d'information de quartier, des portes ouvertes, ou d'autres événements de communication autour du projet. Leur parole de voisin·e ou d'usager·ère a une crédibilité que la communication institutionnelle n'a pas.
 
-### 4. Retour d'expérience sur le processus
+### 5. Retour d'expérience sur le processus
 
 Un dernier atelier est organisé avec le MiniPublic pour recueillir leurs retours sur le processus MiniPublic lui-même : ce qui a bien fonctionné, ce qui a été difficile, ce qu'ils et elles auraient fait différemment.
 
 Ce retour d'expérience nourrit l'amélioration continue de la méthode et est intégré à la documentation d'En Commun.
 
-### 5. Suivi post-processus
+### 6. Suivi post-processus
 
 La maîtrise d'ouvrage s'engage à informer le MiniPublic des suites données au projet — notamment du résultat du MEP (quel projet a été retenu, et pour quelles raisons) — dans un délai défini lors du cadrage.
 

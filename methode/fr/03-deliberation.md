@@ -6,6 +6,8 @@ Permettre aux membres du MiniPublic de travailler directement sur les documents 
 
 La délibération est le dispositif central qui rend ce passage possible : du *je* au *nous*. Chaque membre entre dans l'atelier avec son expérience, ses usages, ses perceptions. La délibération les met en dialogue, fait émerger ce qui est partagé et ce qui diverge, et permet au groupe de construire une parole collective — distincte de la simple addition des opinions individuelles. C'est cette parole collective qui prend la forme d'une liste de recommandations transmissible à la maîtrise d'ouvrage et au Collège d'expert·e·s.
 
+> **Rappel — Les boucles itératives** : Le MiniPublic est mobilisé en deux boucles minimum, définies lors du cadrage (voir [`01-cadrage.md`](./01-cadrage.md)). La **boucle 1** porte sur le cahier des charges, avant le lancement du MEP. La **boucle 2** porte sur les projets des équipes de conception, après leur remise. Chaque boucle comprend des ateliers de délibération (cette étape) suivis d'une séance de présentation devant le Collège d'expert·e·s (étape 5).
+
 ---
 
 ## Parti pris : l'expertise d'usage ne s'enseigne pas, elle s'exerce
@@ -48,6 +50,9 @@ Si des plans ou rendus sont trop techniques ou peu lisibles, signaler aux équip
 
 La répartition des membres du MiniPublic dans les sous-groupes doit être faite avant l'atelier en tenant compte de la diversité au sein de chaque groupe (âge, genre, situation résidentielle, etc.).
 
+---
+
+## Principes de la délibération
 
 **La délibération n'est pas un vote.** Son objectif n'est pas de dégager une majorité, mais de construire une compréhension partagée des enjeux et des arbitrages nécessaires. Les désaccords qui persistent après délibération sont eux-mêmes une information utile pour la maîtrise d'ouvrage et le Collège d'expert·e·s.
 
@@ -83,7 +88,7 @@ Sur la base de la plénière, le MiniPublic formule une liste de recommandations
 
 Les recommandations ne sont pas nécessairement unanimes : elles peuvent refléter une majorité avec des positions minoritaires documentées. Les dissidences font partie intégrante de la liste — elles donnent au Collège d'expert·e·s une image fidèle de la diversité des usages et des points de vue.
 
-La compilation, validation et signature de cette liste par les ambassadeurs font l'objet de l'étape suivante (`04-recommandations.md`).
+La compilation, validation et signature de cette liste par les ambassadeurs font l'objet de l'étape suivante ([`04-recommandations.md`](./04-recommandations.md)).
 
 ---
 
@@ -97,7 +102,7 @@ La compilation, validation et signature de cette liste par les ambassadeurs font
 
 **Cartographie des désaccords** — Quand un désaccord persiste, l'animateur·rice le nomme et invite à préciser : s'agit-il d'un désaccord de valeurs, de faits, d'interprétation ou de priorités ?
 
-Voir `outils/fr/guide-animation-ateliers.md` pour des fiches techniques détaillées.
+Voir [`outils/guide-animation-ateliers.md`](./outils/guide-animation-ateliers.md) pour des fiches techniques détaillées.
 
 ---
 

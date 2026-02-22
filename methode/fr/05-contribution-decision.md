@@ -2,7 +2,9 @@
 
 ## Objectif
 
-Décrire le déroulé opérationnel des séances où les ambassadeurs portent les recommandations du MiniPublic devant le Collège d'expert·e·s, et documenter les arbitrages produits. La définition des boucles et leur articulation au MEP sont établies lors du cadrage (`01-cadrage.md`) — cette étape en décrit la mise en œuvre concrète.
+Décrire le déroulé opérationnel des séances où les ambassadeurs portent les recommandations du MiniPublic devant le Collège d'expert·e·s, et documenter les arbitrages produits. La définition des boucles et leur articulation au MEP sont établies lors du cadrage ([`01-cadrage.md`](./01-cadrage.md)) — cette étape en décrit la mise en œuvre concrète.
+
+> **Rappel** : L'**assistant·e à maîtrise d'usage (AMU)** accompagne les ambassadeurs à chaque séance du Collège. Son rôle est de préparer les ambassadeurs, de veiller à la fidélité de la transmission, et de documenter les arbitrages pour retransmission au MiniPublic. Pour une présentation complète du rôle de l'AMU, voir [`00-introduction.md`](./00-introduction.md).
 
 ## Déroulé des séances d'ambassadeurs
 
@@ -40,5 +42,5 @@ Décrire le déroulé opérationnel des séances où les ambassadeurs portent le
 - **Garantir l'obligation d'argumenter** : le Collège d'expert·e·s doit justifier les recommandations non retenues. Sans cette obligation, la contribution du MiniPublic perd sa substance.
 - **Préparer les ambassadeurs** : porter des recommandations devant un collège de professionnel·le·s est intimidant. Les ambassadeurs doivent être briefé·e·s sur le format, accompagné·e·s par l'AMU, et avoir eu le temps de s'approprier les recommandations du MiniPublic.
 - **Documenter les divergences** : les points de vue minoritaires du MiniPublic sont une information précieuse pour le Collège. Ne pas les lisser dans un faux consensus.
-- **Rapporter fidèlement au MiniPublic** : après chaque séance du Collège, les ambassadeurs restituent au MiniPublic ce qui a été retenu, ce qui ne l'a pas été et pourquoi. Cette transparence clôt chaque boucle de manière honnête. **Cette restitution aux membres du MiniPublic est une tâche à part entière** — la planifier et la tracer comme telle, pas la laisser implicite. Un email dédié aux membres avec les arbitrages du Collège (dans un langage accessible) est recommandé après chaque boucle.
+- **Rapporter fidèlement au MiniPublic** : après chaque séance du Collège, les ambassadeurs restituent au MiniPublic ce qui a été retenu, ce qui ne l'a pas été et pourquoi. Cette transparence clôt chaque boucle de manière honnête. **Cette restitution aux membres du MiniPublic est une tâche à part entière** — la planifier et la tracer comme telle, pas la laisser implicite. Un email dédié aux membres avec les arbitrages du Collège (dans un langage accessible) est recommandé après chaque boucle. Voir [`outils/gestion-emails-minipublic.md`](./outils/gestion-emails-minipublic.md) pour le modèle d'email correspondant.
 - **Éviter la co-optation** : les ambassadeurs doivent rester des représentant·e·s de l'expertise d'usage, pas des participant·e·s qui adoptent progressivement les codes et les priorités des expert·e·s techniques.
