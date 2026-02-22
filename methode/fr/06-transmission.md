@@ -1,4 +1,4 @@
-# Étape 7 — Transmission
+# Étape 6 — Transmission
 
 ## Objectif
 
@@ -22,7 +22,7 @@ Ce n'est pas une conférence de presse de la maîtrise d'ouvrage : c'est un mome
 
 ### 2. Publication des documents
 
-Le rapport d'expertise d'usage (ou une version résumée accessible) est rendu public. La maîtrise d'ouvrage publie également une réponse indiquant comment les recommandations du MiniPublic ont été prises en compte.
+Le cahier des recommandations (rendu public à l'issue du concours) et la liste de recommandations validée par les ambassadeurs sont mis à disposition. La maîtrise d'ouvrage publie également une réponse indiquant comment les recommandations du MiniPublic ont été prises en compte.
 
 Les documents sont publiés dans un format accessible (pas uniquement PDF technique) et diffusés via les canaux de communication habituels de la commune ou du maître d'ouvrage.
 

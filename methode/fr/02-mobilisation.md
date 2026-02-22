@@ -58,18 +58,9 @@ Un appel de confirmation après la lettre augmente significativement le taux de 
 
 ## Logistique
 
-### Accessibilité
+### Accessibilité et mesures d'inclusion
 
-- Lieu des ateliers accessible en transports publics et à mobilité réduite
-- Horaires compatibles avec les contraintes des participant·e·s (soirées ou week-ends selon les profils)
-- Garde d'enfants organisée si nécessaire
-- Accessibilité linguistique (traduction, médiation) si la population cible est plurilingue
-
-### Indemnités et remboursements
-
-- Indemnité de participation par atelier (montant défini lors du cadrage)
-- Remboursement des frais de transport
-- Remboursement des frais de garde d'enfants sur présentation de justificatifs
+Les mesures d'inclusion ont été définies et budgétées lors du cadrage. La mobilisation les met en œuvre : réservation d'un lieu accessible en transports publics et à mobilité réduite, organisation de la garde d'enfants, traduction ou médiation linguistique si nécessaire, horaires compatibles avec les contraintes des participant·e·s (soirées ou week-ends). L'indemnité de participation et les remboursements de frais sont versés selon les modalités arrêtées lors du cadrage.
 
 ## Livrables de la mobilisation
 

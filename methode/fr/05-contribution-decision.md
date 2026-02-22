@@ -1,12 +1,10 @@
-# Étape 6 — Contribution à la décision
+# Étape 5 — Contribution à la décision
 
 ## Objectif
 
-Assurer que l'expertise d'usage produite par le MiniPublic est effectivement prise en compte dans le processus de décision du MEP — transmission au Collège d'expert·e·s, intégration au programme, et présence du MiniPublic lors de l'évaluation des projets.
+Décrire le déroulé opérationnel des séances où les ambassadeurs portent les recommandations du MiniPublic devant le Collège d'expert·e·s, et documenter les arbitrages produits. La définition des boucles et leur articulation au MEP sont établies lors du cadrage (`01-cadrage.md`) — cette étape en décrit la mise en œuvre concrète.
 
-## Modalités de contribution
-
-La contribution à la décision s'organise en deux boucles correspondant aux deux moments clés du MEP. À chaque boucle, la même mécanique s'applique : le MiniPublic produit une liste de recommandations, les ambassadeurs la portent devant le Collège d'expert·e·s, le Collège arbitre et argumente.
+## Déroulé des séances d'ambassadeurs
 
 ### Boucle 1 — Le cahier des charges
 
