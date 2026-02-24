@@ -2,7 +2,7 @@
 
 ## Avertissement
 
-Ce budget est un modèle indicatif pour un MiniPublic En Commun de taille standard (15–20 participant·e·s, 2 boucles, 2 ateliers par boucle, commune suisse de taille moyenne). Il doit être adapté à chaque contexte : taille du panel, nombre d'ateliers, complexité du projet, ressources internes de la maîtrise d'ouvrage.
+Ce budget est un modèle indicatif pour un MiniPublic En Commun de taille standard (15–20 participant·e·s, 2 boucles, 1 ateliers par boucle, commune suisse de taille moyenne). Il doit être adapté à chaque contexte : taille du panel, nombre d'ateliers, complexité du projet, ressources internes de la maîtrise d'ouvrage.
 
 Les heures sont exprimées en heures-personne. Elles permettent d'estimer les honoraires AMU et de rendre visible l'investissement humain total — y compris celui des membres du MiniPublic, dont la contribution constitue le cœur de la démarche.
 
